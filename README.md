@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Just a guy from Missouri making a Bible app
+Just a guy wanting to learn how to make a simple app on GitHub
